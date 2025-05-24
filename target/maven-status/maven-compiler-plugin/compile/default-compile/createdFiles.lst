@@ -1,0 +1,9 @@
+com/library/dao/UserDao.class
+com/library/service/LibraryService.class
+com/library/dao/BookDaoMemoryImpl.class
+com/library/dao/BookDao.class
+com/library/model/User.class
+com/library/service/AuthService.class
+com/library/service/UserService.class
+com/library/model/Book.class
+com/library/dao/UserDaoMemoryImpl.class

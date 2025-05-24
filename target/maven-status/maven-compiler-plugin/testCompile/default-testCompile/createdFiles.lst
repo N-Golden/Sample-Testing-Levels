@@ -1,0 +1,3 @@
+com/library/system/LibrarySystemTest.class
+com/library/integration/UserServiceIntegrationTest.class
+com/library/service/AuthServiceTest.class
